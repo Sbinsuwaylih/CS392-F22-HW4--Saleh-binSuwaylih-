@@ -1,6 +1,8 @@
 # CS392-F22-HW4--Saleh-binSuwaylih-
-Saleh mohammed binswaylih
+Saleh Mohammed Binswaylih
 
-asem alsubaihi
+Asem Alsubaihi
 
 Abdulaziz Fahad bin Saif
+
+Nawaf Mofleh AlMutairi
